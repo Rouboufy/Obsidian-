@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "15b721a36786fee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e40297d733c861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d502b05e70a4ee20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MINI SHELL professor GPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MINI SHELL professor GPT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f428adb8e5069ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "dda1c4a2abcd651c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6258769037dd7556",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e01731dc1f67067",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d37b8e83d42ec4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "170ef8e75e7afca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dce03fd00c573cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7013cda21a0314b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MINI SHELL professor GPT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MINI SHELL professor GPT"
+            }
+          },
+          {
+            "id": "c5268b04607ad2c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MINI SHELL professor GPT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MINI SHELL professor GPT"
+            }
+          },
+          {
+            "id": "b1bf713422e45d80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7d771b0d1cf1a678",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MINI SHELL professor GPT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MINI SHELL professor GPT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d502b05e70a4ee20",
+  "lastOpenFiles": [
+    "wait().md",
+    "strtok().md",
+    "MINI SHELL professor GPT.md",
+    "perror().md",
+    "dup2().md",
+    "Fork().md",
+    "execve().md",
+    "process-wide-semaphore-adjustments.md",
+    "mmap().md",
+    "create a link.md",
+    "setpgid().md",
+    "[mmap()",
+    "Untitled.md",
+    "Welcome.md"
+  ]
+}
