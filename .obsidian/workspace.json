@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c6e40297d733c861",
+        "id": "ec4f6dd430f7f21d",
         "type": "tabs",
         "children": [
           {
-            "id": "d502b05e70a4ee20",
+            "id": "5cb0f8aa33660455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MINI SHELL professor GPT.md",
+                "file": "System call/dup2().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MINI SHELL professor GPT"
+              "title": "dup2()"
+            }
+          },
+          {
+            "id": "858f68f6ed30eb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Get_next_line().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Get_next_line()"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "170ef8e75e7afca9",
@@ -169,21 +185,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "d502b05e70a4ee20",
+  "active": "858f68f6ed30eb42",
   "lastOpenFiles": [
-    "wait().md",
-    "strtok().md",
-    "MINI SHELL professor GPT.md",
-    "perror().md",
-    "dup2().md",
-    "Fork().md",
-    "execve().md",
+    "read().md",
+    "Get_next_line().md",
+    "System call/dup2().md",
+    "Projects",
+    "String functions",
+    "System call",
+    "File descriptor.md",
+    "System call/execve().md",
+    "System call/mmap().md",
+    "Projects/MINI SHELL professor GPT.md",
+    "System call/wait().md",
+    "String functions/strtok().md",
+    "System call/perror().md",
+    "System call/Fork().md",
     "process-wide-semaphore-adjustments.md",
-    "mmap().md",
     "create a link.md",
-    "setpgid().md",
+    "System call/setpgid().md",
     "[mmap()",
-    "Untitled.md",
     "Welcome.md"
   ]
 }

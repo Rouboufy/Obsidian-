@@ -20,9 +20,9 @@ int dup3(int oldfd, int newfd, int flags);
 ```
 
 ### Description 
-The dup2() system call performs the same task as [[dup()]], but instead of using the lowest-numbered unused file descriptor, it uses  the file descriptor number specified in ==newfd==.  In other words, the file descriptor ==newfd== is adjusted so that it now refers to the same open file descriptor as ==oldfd==.
+The dup2() system call performs the same task as [[dup()]], but instead of using the lowest-numbered unused [[File descriptor]], it uses  the [[File descriptor]] number specified in ==newfd==.  In other words, the file descriptor ==newfd== is adjusted so that it now refers to the same open [[File descriptor]] as ==oldfd==.
 
-If the file descriptor ==newfd== was previously open, it is closed before being reused; the close is performed silently (i.e, any errors during the close are not reported by dup2()).
+If the [[File descriptor]] ==newfd== was previously open, it is closed before being reused; the close is performed silently (i.e, any errors during the close are not reported by dup2()).
 
 The steps of closing and reusing the file descriptor ==newfd== are performed atomically. **This is important**, because trying to implement equivalent functionality using [[close()]] and [[dup()]] would be subject to race conditions, whereby ==newfd== might be reused between the two steps. Such reuse could happen because the main program is interrupted by a signal handler that allocates a file descriptor, or because a parallel thread allocates a file descriptor.
 
