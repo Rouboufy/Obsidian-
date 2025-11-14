@@ -74,7 +74,7 @@ Avec mmap():
 What happens when you mmap() ?
 - The OS allocate a memory address within your program.
 - It creates a equivalency table so has "address 0x1000 correspond to the 0 octet of the file."
-- When we access for example data[100] the process will look the table and grab the 100th octet of the file.
+- When we access for example data 100 the process will look the table and grab the 100th octet of the file.
 - The system automatically charge the needed part of the file (per page of 4Ko).
 
 ```c
